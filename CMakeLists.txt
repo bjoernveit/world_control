@@ -1,6 +1,6 @@
 
 cmake_minimum_required(VERSION 2.8.3)
-project(knowrob_robcog)
+project(world_control)
 
 find_package(catkin REQUIRED world_control_msgs unreal_vis_msgs rosprolog roscpp roslib rospack geometry_msgs)
 
